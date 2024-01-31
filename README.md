@@ -7,4 +7,4 @@ Run the `install.cmd` to apply v1.45, the newest version extracted from Win11_23
 
 Run the `uninstall.cmd` to apply v1.29, the original version of Win10.
 
-**Just double-click to run, there is no need to run as admin.**
+**Just clone or download the ZIP, then DOUBLE-CLICK to run, there is no need to run as admin.**
